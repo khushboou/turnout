@@ -1,0 +1,29 @@
+/**
+ * This file should get overwritten if Method 1 is used. If Method 2 is chosen,
+ * remove this comment and start adding your styles to this file.
+ */
+.navbar-default {
+background-color: #fff; 
+ 
+}
+
+.block-user{
+
+	}
+	
+	.banner{
+margin-top: 71px;
+		
+		}
+		
+		.cont{
+float: left;			
+			}
+.region-header{
+				width: 44%;
+
+				}
+.form {
+width: 44%;
+}
+		

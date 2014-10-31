@@ -1,0 +1,26 @@
+/**
+ * This file should get overwritten if Method 1 is used. If Method 2 is chosen,
+ * remove this comment and start adding your styles to this file.
+ */
+.slide-cont {
+position: absolute;
+top: 47px;
+right: 10px;
+color: #fff;
+padding: 17px;
+
+}
+.region-header{
+				width: 44%;
+
+				}
+				.views-row {
+float: left;
+width: 21%;
+margin: 15px;
+}
+		.region-header{
+				width: 44%;
+
+				}
+		
